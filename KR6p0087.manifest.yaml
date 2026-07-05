@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0087_000.yaml, hash: 'sha256:1155d993dd7f8b8be673b0d8e3cffe5e9c419a58c084d05ebab254b4131209cc'}
-  - {seq: 1, filename: KR6p0087_001.yaml, hash: 'sha256:1e4e89f436e58e6aff94e34c3262a51cf4857478ee151a23c140d1ea7a9cc141'}
+  - {seq: 0, filename: KR6p0087_000.yaml, hash: 'sha256:3ef5a595ac0e2acbda063abeffcedecede062eaf5a27b58cd384bfffc9c0931f'}
+  - {seq: 1, filename: KR6p0087_001.yaml, hash: 'sha256:4240158748e6c3f07d0797ff9bac90614a376f38556ebd4d221af51f3e961e9b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0087_000.markers.yaml, hash: 'sha256:3ff585bc919ff01ae092a958cd2b4a95f5cf36d1eaa38c3e1917e995397547d8'}
-  - {seq: 1, role: markers, filename: assets/KR6p0087_001.markers.yaml, hash: 'sha256:f3f6cda73271450bef71a46f73a97d3f0e092603e75e121b4fd7a8cc20dba05b'}
+  - {seq: 0, role: markers, filename: assets/KR6p0087_000.markers.yaml, hash: 'sha256:a71b3ecea4858a4b8d40bff807531381322fa9bae60349c24481a8fc6f1e2820'}
+  - {seq: 1, role: markers, filename: assets/KR6p0087_001.markers.yaml, hash: 'sha256:f1e9ad20f091e205d607d2cc4a6b8c24d78c9b6e7eb62ba25caae49ec6b5537e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 西方發願文註
   type: mulu
   level: 1
-hash: sha256:b4a194e6f25cc59014fba6ec826555374e6c727c5888e6527c9a467e76a261a2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8cdc692400bd118176e60cda865e31081f942714a7bd9c2839d4e78372985b89
