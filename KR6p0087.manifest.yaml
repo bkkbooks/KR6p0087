@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0087_000.yaml, hash: 'sha256:1155d993dd7f8b8be673b0d8e3cffe5e9c419a58c084d05ebab254b4131209cc'}
+  - {seq: 0, filename: KR6p0087_000.yaml, hash: 'sha256:46630a855b62da85df95d02e89cbdebbc5db8dd8d4b1b6220be7dccdf46e14cb'}
   - {seq: 1, filename: KR6p0087_001.yaml, hash: 'sha256:3a12fea9b61d4aa329d4e5732717f74fba08d842cbad8a5529f6a011ca859909'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0087_000.markers.yaml, hash: 'sha256:32711e701517d6376225090e73efddf7761e620208c6e9b3281ee56cf462b69a'}
+  - {seq: 0, role: markers, filename: assets/KR6p0087_000.markers.yaml, hash: 'sha256:15cfc3d22780691e485530f640ce67e93348f3dd7c1d9215401eb1cc7a7225d9'}
   - {seq: 1, role: markers, filename: assets/KR6p0087_001.markers.yaml, hash: 'sha256:24c962837e9017fcad1b75a21bb7faefb40df57cc21ce092ac5e46e9e67f4409'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0087_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1161-A 西方發願文註敘
@@ -57,7 +57,7 @@ table_of_contents:
   label: 西方發願文註
   type: mulu
   level: 1
-hash: sha256:93d8544886e7d68179a15740f5961b604b12dd4ea76430371fa718f988a5c624
+hash: sha256:33e6868ec79ecdd1e831aee67e0f9c78a6527063379aa96136f72529bbc2fb01
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

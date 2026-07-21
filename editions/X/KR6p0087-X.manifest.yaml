@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0087_000-X.yaml, hash: 'sha256:3ef5a595ac0e2acbda063abeffcedecede062eaf5a27b58cd384bfffc9c0931f'}
+  - {seq: 0, filename: KR6p0087_000-X.yaml, hash: 'sha256:460a64e71fa5049413f9e7e318d779b71b2615d9eb8647023f9a8fc4f24fae34'}
   - {seq: 1, filename: KR6p0087_001-X.yaml, hash: 'sha256:4240158748e6c3f07d0797ff9bac90614a376f38556ebd4d221af51f3e961e9b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0087_000-X.markers.yaml, hash: 'sha256:ac5b0d6409b26d1a7a1b4ab15d38507ab48e7cb0981df25075b69693f4ae7ee3'}
+  - {seq: 0, role: markers, filename: assets/KR6p0087_000-X.markers.yaml, hash: 'sha256:337a195c8e24c216ad8928cfff8dae2fd8f33d2e94c5b4cb75d98900c8d123ed'}
   - {seq: 1, role: markers, filename: assets/KR6p0087_001-X.markers.yaml, hash: 'sha256:f3ea0754335ea0994fe5e19d9f2b7e96e29028966852853107e2217342ce4006'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0087_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1161-A 西方發願文註敘
@@ -55,4 +55,4 @@ table_of_contents:
   label: 西方發願文註
   type: mulu
   level: 1
-hash: sha256:7ff4d4458274382cac77dafb5403f5d1f284e2251522d7900c9ddc1bd4272531
+hash: sha256:41964d9b4e64c6a90cfdd92b267c668b249dcf32302b7d2d5be581d9dc860a1c
